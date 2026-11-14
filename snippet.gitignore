@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+accentbridge_ckpt/
+.gradio/
+.DS_Store
+accentbridge_subtitles.srt
