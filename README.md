@@ -1,3 +1,15 @@
+---
+title: AccentBridge
+emoji: 🎙️
+colorFrom: indigo
+colorTo: purple
+sdk: gradio
+sdk_version: 6.32.0
+app_file: app.py
+pinned: false
+short_description: Phoneme-aligned, slide-synced subtitle AI
+---
+
 # AccentBridge: Phoneme-Aligned & Slide-Synced Subtitle AI
 **Track:** AI + Languages — *Veritas AI International High School Hackathon 2026*
 
